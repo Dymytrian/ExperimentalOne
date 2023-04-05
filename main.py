@@ -1,1 +1,1 @@
-print("This is simple example")
+print("This is simple example.")
